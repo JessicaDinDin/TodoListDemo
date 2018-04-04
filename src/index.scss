@@ -1,0 +1,128 @@
+html,body{
+	font-family: "微軟正黑體";
+	/*background: #f5f1e8;*/
+}
+
+.header{
+	height: 100px;
+	color: #fff;
+	text-align: center;
+
+	.row{
+		height: 100px;
+    	line-height: 100px;
+	}    
+
+	.title,i{
+		font-size: 30px;
+	}
+
+	i{
+		padding-right: 20px;
+	}
+
+}
+
+.wapper{
+	padding-top: 100px;
+}
+
+.bg-dark {
+    background-color: #343a40!important;
+}
+
+.classify{
+	padding-top: 20px;
+}
+
+.list-group-item-text i{
+	padding-right: 10px;
+}
+
+.listProgress-box{
+	padding-top: 20px;
+
+	.listProgress{
+		padding:15px 16px; 
+		border: 1px solid #ccc;
+		list-style: none;
+	}
+	i span{
+		    padding-right: 10px;
+		    padding-left: 10px;
+		    font-size: 15px;
+		    font-family: "\5FAE\8EDF\6B63\9ED1\9AD4";
+		    vertical-align: middle;
+	}
+
+	span{
+		font-size: 24px;
+	}
+
+}
+
+.line{
+	padding-top: 20px;
+    clear: both;
+    border-bottom: 4px solid #f1f1f1;
+}
+
+.list-panal{
+	margin-top: 20px;
+
+}
+
+.editor{
+	float: right;
+	padding: 0 10px;
+}
+.list-group-item span{
+	font-size: 16px;
+	padding-left: 10px;
+}
+
+.tag{
+	margin-bottom: 10px;
+}
+
+.deleteItem{
+	color: #ff0606;
+	text-decoration: line-through;
+}
+
+.list-group-item{
+	overflow: hidden;
+}
+
+.fa-star{
+	color:#e9b51e
+}
+
+.fa-star:hover{
+	color:#daa813
+}
+
+.fa-trash-alt{
+	color:#828080
+}
+
+.fa-trash-alt:hover{
+	color:#636161
+}
+
+.taskProgress{
+	display: inline-block;
+	padding: 5px;
+}
+
+.progressBtn{
+	float: right;
+	border: 1px solid #ccc;
+}
+
+.liWrapper{
+	padding: 0;
+	padding-top: 10px;
+}
+
+
